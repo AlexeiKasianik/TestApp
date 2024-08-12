@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="bank_accounts_screen_title">BANK ACCOUNTS</string>
+    <string name="empty_bank_accounts_list">You have no connected bank accounts. You can link your bank account and deposit funds to the wallet.</string>
+    <string name="add_bank_account_dialog_info">"You’ve reached a maximum number\nof connected bank accounts"</string>
+    <string name="add_bank_accounts">Add bank account</string>
+    <string name="added_bank_account_dialog_title">CONGRATULATIONS!</string>
+    <string name="added_bank_account_dialog_subtitle">You’ve successfully linked your bank account! It can take a few minutes before it becomes available. Once available, you’ll be able to deposit and withdraw funds.</string>
+    <string name="unlink_bank_account_cancel">Cancel</string>
+    <string name="unlink_bank_account_unlink">Unlink</string>
+    <string name="unlink_bank_account_title">UNLINK BANK ACCOUNT?</string>
+    <string name="unlink_bank_account_subtitle_first_part">Your bank account ending in </string>
+    <string name="unlink_bank_account_subtitle_second_part">will be unlinked.</string>
+</resources>
